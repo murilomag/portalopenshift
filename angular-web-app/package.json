@@ -2,7 +2,6 @@
   "name": "angular-web-app",
   "version": "0.0.0",
   "scripts": {
-    "preinstall": "npm install -g @angular/cli@7.3.8",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
